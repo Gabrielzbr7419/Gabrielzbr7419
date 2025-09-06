@@ -47,11 +47,11 @@
 <h3 align="center">🎧 O que estou ouvindo no Spotify</h3>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31kaqyikmzu5yykws2uhp3gyyb3q">
+  <a href="https://open.spotify.com/user/31drqpoxguyzokvsmiy54qjkl4fy?si=655035f6a4ea401f">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjkxNzRvYTVrdzNndWFjamd5Z2Y0emRyMHFmbGNjZ3Rta3JqeDhsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8pRI5Fo7Xh2jhOcelh/giphy.gif" alt="avenged sevenfold" />
   </a>
 </p>
-<p align="center"><i>Música também é código pra alma 🎶</i></p>
+<p align="center"><i>amo rock e metal 🎶</i></p>
 
 <p align="center"><i>Relaxando com um som bom</i></p>
 
