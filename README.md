@@ -53,9 +53,6 @@ b30006<!-- Animação no topo -->
 </p>
 <p align="center"><i>amo rock e metal 🎶</i></p>
 
-
-<p align="center"><i>Clique no Jake</i></p>
-
 ---
 
 <h3 align="center">🔥 Motivação diária</h3>
