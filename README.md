@@ -1,11 +1,11 @@
-<!-- Animação no topo -->
+b30006<!-- Animação no topo -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Gabriel+Schmidt;Desenvolvedor+Web;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+tecnologia" alt="Typing SVG" />
 </p>
 
 <!-- Linha animada -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4A00E0&height=120&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=28&fontColor=b30006&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:b30006&height=120&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=28&fontColor=b30006&animation=fadeIn" />
 </p>
 
 ---
