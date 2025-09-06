@@ -5,7 +5,7 @@ b30006<!-- Animação no topo -->
 
 <!-- Linha animada -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:b30006&height=120&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=28&fontColor=b30006&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:b30006&height=120&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=28&fontColor=3b3b3b&animation=fadeIn" />
 </p>
 
 ---
