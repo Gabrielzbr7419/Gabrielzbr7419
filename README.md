@@ -56,7 +56,7 @@ b30006<!-- Animação no topo -->
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXprZnhscmNnMjhjaDExdW0wcWg0MWN2NGtobHN3NjhtZWMybjY3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aAbax5anloMNk6TSP9/giphy.gif" width="300px" alt="Goku Instinto Superior Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3prOGI0bWNudXkzY3JjdTExYXB3c3UzbjRpcWJ3YW0xY2VjeGhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoWm8YzFQJg5i/giphy.gif)" />
+  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXprZnhscmNnMjhjaDExdW0wcWg0MWN2NGtobHN3NjhtZWMybjY3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aAbax5anloMNk6TSP9/giphy.gif" width="300px" alt=](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3prOGI0bWNudXkzY3JjdTExYXB3c3UzbjRpcWJ3YW0xY2VjeGhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoWm8YzFQJg5i/giphy.gif)"Goku Instinto Superior f](https://media3Gi.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3prOGI0bWNudXkzY3JjdTExYXB3c3UzbjRpcWJ3YW0xY2VjeGhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoWm8YzFQJg5i/giphy.gif)" />
 </p>
 
 
